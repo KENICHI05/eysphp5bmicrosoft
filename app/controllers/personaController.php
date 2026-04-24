@@ -2,6 +2,7 @@
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
+// Juan Bedoya modifico el 2024-06-15
 require_once $_SERVER['DOCUMENT_ROOT'] . '/eysphp/config/database.php';
 require_once $_SERVER['DOCUMENT_ROOT'] . '/eysphp/app/models/Persona.php';
 
